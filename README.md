@@ -11,4 +11,4 @@
 **Movie_Info() is used to know information about a movie like actors names,movie rating,director names.**
 **bot() function will terminate when choice!=3**
 **If we want to quit from program**
-**Chatbot will not terminate untill  programmer end this chat**
+**Chatbot will not terminate untill  programmer end this chat.**
