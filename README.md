@@ -1,12 +1,10 @@
-# TEAM MATES
-- ## J.V.V.VAMSI KRISHNA(18PA1A0561)
+                # MOVIE INFO CHATBOT
+## CHATBOT TEAM
+- ### J.V.V.VAMSI KRISHNA(18PA1A0561)
+- ### V.SRIJA(19PA1A12C6)
+- ### V.Prasanna Vamsi Maruturi(19PA1A05I8)
 
-
-
-
-
-
-# WORKING OF THE CHATBOT
+## WORKING OF THE CHATBOT
 1. A chatbot is a program that communicates with you ,most commonly using a text interface and artifical intelligence.
 2. Random module is used to generate random variables in a program.
 3. Datetime module is used to give current information about date and time.
@@ -20,3 +18,10 @@
 9. bot() function will terminate when choice!=3.
 10. If we want to quit from program
 11. Chatbot will not terminate untill  programmer end this chat.
+
+## BLOCK DIAGRAM OF THE CHATBOT
+
+![BLOCK DIAGRAM](image.jpg)
+
+## DEMO VIDEO OF THE CHATBOT
+[Movie Info chatbot](https://www.example.com)
