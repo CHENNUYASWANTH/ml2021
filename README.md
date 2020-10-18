@@ -1,4 +1,11 @@
-# DESCRIPTION FOR MOVIE INFORMATION ON CHATBOT
+#TEAMATES
+1. VAMSI
+
+
+
+
+
+# WORKING OF THE CHATBOT
 1. A chatbot is a program that communicates with you ,most commonly using a text interface and artifical intelligence.
 2. Random module is used to generate random variables in a program.
 3. Datetime module is used to give current information about date and time.
