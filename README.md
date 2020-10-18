@@ -7,11 +7,11 @@
 
 ## INTRO ABOUT THE CHATBOT
 
-This program is based on simple design on chatbot...
-1.The bot starts with greeting, self introduction  and ask for the name of the person
-2.The bot will greet and welcome the person
-3.Bot will ask the person want to do, it will offer a choice of things based upon the bot design
-4.It will respond to users to input correctly
+- This program is based on simple design on chatbot...
+1. The bot starts with greeting, self introduction  and ask for the name of the person
+2. The bot will greet and welcome the person
+3. Bot will ask the person want to do, it will offer a choice of things based upon the bot design
+4. It will respond to users to input correctly
 
 ## WORKING OF THE CHATBOT
 1. A chatbot is a program that communicates with you ,most commonly using a text interface and artifical intelligence.
