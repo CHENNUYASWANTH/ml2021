@@ -34,3 +34,11 @@
 
 ## DEMO VIDEO OF THE CHATBOT
 [Movie Info chatbot](https://youtu.be/U5KLsEXzrtA)
+
+## REFERENCE LINKS USED IN MAKING THE CHATBOT
+
+- Api link=http://www.omdbapi.com/
+- Youtube tuorial=https://youtu.be/C6X71gjB9pA
+
+
+
