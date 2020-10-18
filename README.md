@@ -30,7 +30,7 @@
 
 ## BLOCK DIAGRAM OF THE CHATBOT
 
-![BLOCK DIAGRAM](image.jpg)
+![BLOCK DIAGRAM](https://github.com/vamsijavvadi7/ml2021/blob/main/Screenshot_20201018-142459__01.jpg)
 
 ## DEMO VIDEO OF THE CHATBOT
 [Movie Info chatbot](https://youtu.be/U5KLsEXzrtA)
