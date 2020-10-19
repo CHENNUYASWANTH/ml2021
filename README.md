@@ -37,8 +37,8 @@
 
 ## REFERENCE LINKS USED IN MAKING THE CHATBOT
 
-- Api link=http://www.omdbapi.com/
-- Youtube tuorial=https://youtu.be/C6X71gjB9pA
-
+- Api link-http://www.omdbapi.com/
+- Youtube tuorial-https://youtu.be/C6X71gjB9pA
+- MarkDown cheatsheet-https://www.markdownguide.org/cheat-sheet/
 
 
